@@ -4,7 +4,7 @@
 
 #### :computer: Software Development Student
 
-[![Linkedin: vitor](https://img.shields.io/badge/-vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/kmly-teixeira/](https://www.linkedin.com/in/vitor-gustavo-de-oliveira-444654186/)](https://www.linkedin.com/in/vitor-gustavo-de-oliveira-444654186/))](https://www.linkedin.com/in/anmol098/)
+[![Linkedin: Vitor](https://img.shields.io/badge/-vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/kmly-teixeira/](https://www.linkedin.com/in/vitor-gustavo-de-oliveira-444654186/)](https://www.linkedin.com/in/vitor-gustavo-de-oliveira-444654186/))](https://www.linkedin.com/in/anmol098/)
 
 > S K I L L S
 <div>
@@ -21,15 +21,13 @@
 ####
 > MY  G I T H U B  DATA
 <div>
-<a href="https://github.com/kmlyteixeira">
+<a href="https://github.com/vitor-gustavoo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-gustavoo&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-gustavoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
- <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="100" height="100"/>
-
 <!---
-kmlyteixeira/kmlyteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vitor-gustavoo/vitor-gustavoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/Ileriayo/markdown-badges link for the markdown badges
 --->
 
