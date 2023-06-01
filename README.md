@@ -4,7 +4,7 @@
 
 #### :computer: Software Development Student
 
-[![Linkedin: vitor](https://img.shields.io/badge/-Kemily-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/kmly-teixeira/](https://www.linkedin.com/in/vitor-gustavo-de-oliveira-444654186/)](https://www.linkedin.com/in/vitor-gustavo-de-oliveira-444654186/))](https://www.linkedin.com/in/anmol098/)
+[![Linkedin: vitor](https://img.shields.io/badge/-vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/kmly-teixeira/](https://www.linkedin.com/in/vitor-gustavo-de-oliveira-444654186/)](https://www.linkedin.com/in/vitor-gustavo-de-oliveira-444654186/))](https://www.linkedin.com/in/anmol098/)
 
 > S K I L L S
 <div>
